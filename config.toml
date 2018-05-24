@@ -1,0 +1,9 @@
+[global]
+listen=":8080"
+worker=100
+
+[database]
+type="mongodb"
+url="localhost:27017"
+
+
