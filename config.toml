@@ -1,6 +1,6 @@
 [global]
 listen=":8080"
-worker=100
+worker=1000
 
 [database]
 type="mongodb"
